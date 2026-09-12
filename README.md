@@ -15,3 +15,6 @@
 9. Открыть GitHub Network и проверить, что граф веток виден.
 10. В README.md или git-conflict.md кратко описать, где был конфликт и как он исправлен.
 
+## GitHub Network
+
+<img width="1038" height="410" alt="image" src="https://github.com/user-attachments/assets/cc5ba37a-8459-4b89-80b2-65d6e7254f2c" />
